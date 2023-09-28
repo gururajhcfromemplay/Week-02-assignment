@@ -22,12 +22,21 @@ The quantities like Year, Month, Day, Hour, day_of_week are extracted from date 
 Following Business Analysis questions are answered :
 
 Which product are the top performers? Which products are lagging?
+
 The business has a hunch that certain products sell better at specific times of the year or maybe even days of the week. Using the data, validate this hunch.
+
 Are there products that were once best-sellers but have seen a decrease in sales recently?
+
 Identify the most common products that are bought together. Can you find any product pairs or combinations?
+
 Which are the top 10 most frequent product baskets?
+
 How does basket size vary with the day of the week or time of the month?
+
 Identify different baskets of goods sold, which are the top 10 baskets?
+
 Are there any loyal customers? Identify customers who make frequent purchases.
+
 Can you segment customers based on their total spend?
+
 How often do customers return to make another purchase?
